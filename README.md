@@ -123,7 +123,8 @@ The study leverages data from the **Behavioral Risk Factor Surveillance System (
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/diabetes-risk-ml.git
+git clone https://github.com
+benjamin1-cyber/diabetes-risk-ml.git
 
 # Navigate into project folder
 cd diabetes-risk-ml
