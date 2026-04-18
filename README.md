@@ -1,4 +1,5 @@
-# Machine-Learning-for-Diabetes-Risk-Prediction
+#Machine Learning Models for Predicting Diabetes Risk Using Routine Population Health Indicators
+
 ## 📌 Project Overview
 
 This project develops and evaluates machine learning models to predict diabetes risk using **non-invasive, population-level health indicators**. The goal is to support **early detection and large-scale screening**, especially in settings where laboratory testing is limited.
