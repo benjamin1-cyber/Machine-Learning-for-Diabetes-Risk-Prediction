@@ -100,15 +100,6 @@ The study leverages data from the **Behavioral Risk Factor Surveillance System (
 👉 Should be followed by **clinical/lab confirmation**
 
 
-## 📊 Visualizations
-
-* ROC Curve (AUC = 0.819)
-* Confusion Matrix
-
-*(Add images here if uploading to GitHub)*
-
-
-
 ## 💻 Technologies Used
 
 * Python
@@ -141,7 +132,7 @@ pip install -r requirements.txt
 
 ## 🎥 Project Presentation
 
-👉 **[Insert Presentation Recording Link Here]**
+👉 **(https://youtu.be/-baBxA64qQY)**
 
 *(Replace this with your video link before submission)*
 
