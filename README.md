@@ -112,8 +112,11 @@ The study leverages data from the **Behavioral Risk Factor Surveillance System (
 
 ## 🚀 How to Run the Project (Google Colab)
 • Open Google Colab and upload or open the notebook (AI_IN_HEALTHCARE_PROJECT_FINAL.ipynb)
+
 • Install required libraries (if needed) using !pip install pandas numpy scikit-learn matplotlib seaborn
+
 • Upload the dataset and ensure the file path matches the code
+
 • Run all cells to generate model results, confusion matrix, and ROC curve
 
 
