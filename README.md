@@ -110,31 +110,17 @@ The study leverages data from the **Behavioral Risk Factor Surveillance System (
 * Seaborn
 
 
-
-## 🚀 How to Run the Project
-
-```bash
-# Clone repository
-git clone https://github.com
-benjamin1-cyber/diabetes-risk-ml.git
-
-# Navigate into project folder
-cd diabetes-risk-ml
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run notebook
- notebook AI_IN_HEALTHCARE_PROJECT_FINAL.ipynb
-```
+## 🚀 How to Run the Project (Google Colab)
+• Open Google Colab and upload or open the notebook (AI_IN_HEALTHCARE_PROJECT_FINAL.ipynb)
+• Install required libraries (if needed) using !pip install pandas numpy scikit-learn matplotlib seaborn
+• Upload the dataset and ensure the file path matches the code
+• Run all cells to generate model results, confusion matrix, and ROC curve
 
 
 
 ## 🎥 Project Presentation
 
 👉 **(https://youtu.be/-baBxA64qQY)**
-
-*(Replace this with your video link before submission)*
 
 
 
