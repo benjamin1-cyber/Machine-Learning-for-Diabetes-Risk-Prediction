@@ -53,6 +53,7 @@ The study leverages data from the **Behavioral Risk Factor Surveillance System (
 * Decision Tree
 * Random Forest
 * Gradient Boosting
+* xGBoost
 
 ### 🔹 Validation
 
